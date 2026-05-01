@@ -1,0 +1,6 @@
+{
+  "name": "تحرك! - Move!",
+  "description": "تطبيق بسيط يذكرك بالتحرك خلال اليوم في أوقات تختارها.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
